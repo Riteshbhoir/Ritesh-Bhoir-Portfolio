@@ -1,0 +1,207 @@
+/* 
+#E93B81
+#F5ABC9
+#B6C9F0
+#B6C9F0
+*/
+.container-fluid {
+    width: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 3%;
+}
+.navbar-brand {
+    font-weight: 700;
+    font-family: 'Fuggles', cursive;
+    font-size: 400%;
+    color:#FFE5E2;
+    margin-top: 2%;
+}
+.nav-item {
+    font-size: 1.2rem;
+}
+#main-page {
+    background-color:#E93B81;
+    padding-bottom: 15%;
+}
+.title{
+    margin-top: 5%;
+    
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    line-height: 2;
+    color:#FFE5E2;
+    margin-top: 7%;
+    
+    
+}
+.main-btn {
+    margin-top: 5%;
+    margin-right:1.5%;
+}
+.title-img{
+   margin-left: 7rem;
+   height:auto;
+   width: 60%;
+   margin-top: 3%;
+}
+
+.skill-img {
+    width: 30%;
+    height: auto;
+    text-align: center;
+}
+
+/* Skills section  */
+
+#skills {
+    padding-bottom: 10%;
+    text-align: center;
+}
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight:700;
+    margin-top: 4rem;
+    margin-bottom: 20px;
+}
+.skills-para {
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 3.5rem;
+    padding-bottom: 3rem;
+    font-size: 20px;
+}
+.skill-name {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+/* Project section  */
+
+#my-project {
+    text-align:center;
+    background-color:#E93B81;
+    padding-bottom: 100px;
+    
+}
+.pro-heading {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight:700;
+    margin-top: 4rem;
+    margin-bottom:50px;
+    color: #FFE5E2 !important;
+
+}
+h3{
+    color: #FFE5E2;
+    text-decoration: none;
+    
+}
+.project-para{
+    color: #FFE5E2;
+}
+.play-btn {
+    width:50px;
+    position: relative;
+    top: -35%;
+    cursor: pointer;
+    transition: 0.5s;
+    opacity: 0;
+}
+.col-lg-4:hover .play-btn
+{
+    opacity: 1;
+}
+.projects-title{
+    color: #FFE5E2 !important;
+}
+.modal-content{
+    background: transparent !important;
+    border: none;
+
+}
+
+/* Contact Page CSS */
+.contact-page-heading {
+    color: #FFE5E2;
+    text-align: left;
+    margin-left: 50px;
+    font-size: 6rem;
+    margin-top: -1%;
+    font-family: 'Fuggles', cursive;
+}
+
+#contact-page {
+    background-color: #E93B81 !important;
+    text-align: center;
+}
+#con-page {
+    text-align: center;
+}
+h4{
+    text-align: left;
+    font-family: "Montserrat", sans-serif;
+    font-weight:600;
+    color: #FFE5E2;
+    margin-left: 50px;
+    
+
+}
+.contact-img {
+    width: 60%;
+    height: auto;
+}
+.con-linkedin {
+    text-align: left;
+    font-family: "Montserrat", sans-serif;
+    font-weight:600;
+    color: #FFE5E2;
+    margin-left: 50px;
+    
+}
+
+.col1 {
+    margin-top:30px;
+}
+.col2 {
+    margin-top:30px;
+    
+}
+
+.about-us-heading {
+    text-align: center;
+}
+.about-img {
+    width: 10%;
+    height: auto;
+}
+.abs{
+    text-align: center;
+}
+.about-name{
+    color: rgb(10, 10, 10);
+
+}
+.my-name{
+    color: #E93B81;
+}
+.about-para{
+    font-size:120%;
+}
+
+
+#foot-er{
+    height: 150px;
+    width: auto;
+    background-color: #E93B81;
+}
+.footer-links{
+    text-align: center;
+    padding-top: 70px;
+}
